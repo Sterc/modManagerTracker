@@ -1,7 +1,7 @@
 # modManagerTracker
 Track the MODX Manager using Hotjar or Visual Website Optimizer (VWO).
 
-![modManagerTracker version 1](https://img.shields.io/badge/version-1.0-blue.svg) ![MODX Extra by Sterc](https://img.shields.io/badge/checked%20by-sterc-ff69b4.svg) ![Tested on MODX version](https://img.shields.io/badge/modx%20version%20requirement-2.5%2B-brightgreen.svg)
+![Tested on MODX version](https://img.shields.io/badge/modx%20version%20requirement-2.5.4%2B-brightgreen.svg)
 
 ## Installation & Usage
 1. Create a new plugin
